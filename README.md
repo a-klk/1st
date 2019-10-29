@@ -1,2 +1,2 @@
-# klk_git
-Mygit
+# 1st
+DSR curses repository
